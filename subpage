@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <h2>Liana's Pi Subpage: Linux Quick Ref!</h2>
+  </head>
+  <body>
+      <table>
+		<tr>
+			<th>Command</th>
+      <th>Summary</th>
+			<th>Syntax</th>
+			<th>Example</th>
+		</tr>
+		<tr>
+			<td>echo</td>
+			<td>echo [message]</td>
+			<td>Prints the message, but processes it first</td>
+      <td>Printing stuff in shell</td>
+		</tr>
+    <tr>
+			<td> </td>
+			<td>32%</td>
+			<td>95mg</td>
+      <td>95mg</td>
+		</tr>
+    <tr>
+			<td>Sodium</td>
+			<td>74%</td>
+			<td>1767mg</td>
+      <td>95mg</td>
+		</tr>
+    <tr>
+			<td>Potassium</td>
+			<td>17%</td>
+			<td>593mg</td>
+      <td>95mg</td>
+		</tr>
+    <tr>
+			<td>Dietary Fiber</td>
+			<td>14%</td>
+			<td>3.5g</td>
+      <td>95mg</td>
+		</tr>
+    <tr>
+			<td>Protein</td>
+			<td>Not Available</td>
+			<td>30g</td>
+      <td>95mg</td>
+		</tr>
+    <tr>
+			<td>Vitamin A</td>
+			<td>60%</td>
+			<td>Not Available</td>
+      <td>95mg</td>
+		</tr>
+    <tr>
+			<td>Calcium</td>
+			<td>36%</td>
+			<td>Not Available</td>
+      <td>95mg</td>
+		</tr>
+	</table>
+      </ul>
+      <p>My Mainpage: <a href="https://HTML-page-demo.laurelwyvern.repl.co">click here!<a></p>
+    <script src="script.js"></script>
+  </body>
+</html>
