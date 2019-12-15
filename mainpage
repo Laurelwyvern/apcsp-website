@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <h2>Liana's Pi Webpage</h2>
+  </head>
+  <body>
+      <image src="https://lh3.googleusercontent.com/-DJQ1w0pON8A/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3retYllTIb-XhZfwjY0_EgZyNSTi1A/photo.jpg?sz=46">
+      <p>I'm a bored (and procrastinating) sophomore at CCA taking AP Computer Science. Partially because I forgot every scrap of HTML and CSS knowledge from the previous ECS course I took, my CSS is suspiciously similar to the CSS from my ECS HTML website. Above is a picture of a snowman I made in 5th grade in JS on Khan Academy, because I don't want to put my face there.</p>
+      <h3>Favorite Foods:</h3>
+      <ul style="list-style-type:square">
+        <li>Danish</li>
+        <li>Mango Pudding</li>
+        <li>Instant Noodles</li>
+        <li>Spaghetti</li>
+      </ul>
+      <p>My Subpage: <a href="https://HTML-page-demo.laurelwyvern.repl.co/subpage.html">click here!<a></p>
+    <script src="script.js"></script>
+  </body>
+</html>
