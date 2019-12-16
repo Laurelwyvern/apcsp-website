@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html>
   <head>
     <meta charset="utf-8">
@@ -18,50 +18,62 @@
 		<tr>
 			<td>echo</td>
 			<td>echo [message]</td>
-			<td>Prints the message, but processes it first</td>
-      <td>Printing stuff in shell</td>
+			<td>prints the message, but processes it first</td>
+      			<td>printing stuff in shell</td>
 		</tr>
     <tr>
-			<td> </td>
-			<td>32%</td>
-			<td>95mg</td>
-      <td>95mg</td>
+			<td>date</td>
+			<td>date [option]..[format]</td>
+			<td>prints time, day of week, and date</td>
+      			<td>when you need any of those</td>
 		</tr>
     <tr>
-			<td>Sodium</td>
-			<td>74%</td>
-			<td>1767mg</td>
-      <td>95mg</td>
+			<td>hostname</td>
+			<td>hostname [option] [file]</td>
+			<td>prints DNS name, and allows you to set system hostname and NIS server name</td>
+   		   	<td>setting hostname, retrieving network info</td>
 		</tr>
     <tr>
-			<td>Potassium</td>
-			<td>17%</td>
-			<td>593mg</td>
-      <td>95mg</td>
+			<td>arch</td>
+			<td>arch [option]</td>
+			<td>prints computer architecture</td>
+      			<td>for information about architecture</td>
 		</tr>
     <tr>
-			<td>Dietary Fiber</td>
-			<td>14%</td>
-			<td>3.5g</td>
-      <td>95mg</td>
+			<td>uname</td>
+			<td>uname [option]</td>
+			<td>prints system information</td>
+      			<td>if you need any system information</td>
 		</tr>
     <tr>
-			<td>Protein</td>
-			<td>Not Available</td>
-			<td>30g</td>
-      <td>95mg</td>
+			<td>uptime</td>
+			<td>uptime [option]</td>
+			<td>prints current time, system runtime, # of logged on users, and load averages</td>
+      			<td>as a timer and performance status</td>
 		</tr>
     <tr>
-			<td>Vitamin A</td>
-			<td>60%</td>
-			<td>Not Available</td>
-      <td>95mg</td>
+			<td>who</td>
+			<td>who [option] [filename]</td>
+			<td>prints information about logged in users</td>
+      			<td>if you want info about other users</td>
 		</tr>
     <tr>
-			<td>Calcium</td>
-			<td>36%</td>
-			<td>Not Available</td>
-      <td>95mg</td>
+			<td>yes</td>
+			<td>yes [message]</td>
+			<td>prints message repeatedly until stopped</td>
+      			<td>if you want to REALLY make something clear</td>
+		</tr>
+	<tr>
+			<td>sleep</td>
+			<td>sleep [number] [unit of time]</td>
+			<td>pauses for a certain amount of time</td>
+      			<td>if you need to pause</td>
+		</tr>
+	<tr>
+			<td>clear</td>
+			<td>clear</td>
+			<td>clears the terminal</td>
+      			<td>if the terminal is cluttered</td>
 		</tr>
 	</table>
       </ul>
