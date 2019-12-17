@@ -15,7 +15,7 @@ h2, h3, h5, p, table, th, td, li, ul {
 body {background-color: coral;}
 
 ul {
-  list-style-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Snow_flake.svg/115px-Snow_flake.svg.png')
+  list-style-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Snow_flake.svg/25px-Snow_flake.svg.png')
 } 
 
 /* A - Create three unequal columns that float next to each other */
