@@ -48,7 +48,7 @@ int findmatchsol(struct expression* sols, int len, struct expression sol){
 void testchal4(int num1, int num2, int num3, int num4, char opt){
   char operations[] = {'*', '+', '-', '/'};
   int nums[] = {num1, num2, num3, num4};
-  struct expression sols[20];
+  struct expression sols[384];
   float round1;
   float round2;
   float round3;
