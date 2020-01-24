@@ -10,8 +10,8 @@ all: default
 
 OBJECTS = chal24.c
 
-%.o: %.c $(HEADERS)
-	$(CC) $(CFLAGS) -c $< -o $@
+#%.o: %.c $(HEADERS)
+#	$(CC) $(CFLAGS) -c $< -o $@
 
 $(TARGET): $(OBJECTS)
 	$(CC) $^ $(LIBS) -o $@
