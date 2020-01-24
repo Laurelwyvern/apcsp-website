@@ -1,4 +1,4 @@
-TARGET = chal24.c
+TARGET = finalproject
 LIBS = -lm
 CC = gcc
 CFLAGS = -g -Wall -I.
